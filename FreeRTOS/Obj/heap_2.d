@@ -1,0 +1,13 @@
+..\obj\heap_2.o: ..\Libraries\Source\portable\MemMang\heap_2.c
+..\obj\heap_2.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+..\obj\heap_2.o: ..\Libraries\Source\include\FreeRTOS.h
+..\obj\heap_2.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+..\obj\heap_2.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\heap_2.o: ..\Libraries\Source\include\FreeRTOSConfig.h
+..\obj\heap_2.o: ..\Libraries\Source\include\projdefs.h
+..\obj\heap_2.o: ..\Libraries\Source\include\portable.h
+..\obj\heap_2.o: ..\Libraries\Source\include\deprecated_definitions.h
+..\obj\heap_2.o: ..\Libraries\Source\portable\RVDS\ARM_CM3\portmacro.h
+..\obj\heap_2.o: ..\Libraries\Source\include\mpu_wrappers.h
+..\obj\heap_2.o: ..\Libraries\Source\include\task.h
+..\obj\heap_2.o: ..\Libraries\Source\include\list.h
